@@ -25,4 +25,4 @@ What you will learn:
 
 - Discover how tools like ChatGPT and GitHub Copilot can revolutionize your Python development for the cloud
 
-Learn more and [enroll in this course](https://digitalcloud.training/courses/python-programming-for-aws/) now to stand out in today's competitive job market with these cutting edge development skills, and learn how to leverage the latest AI technologies to increase development efficiency and accuracy.
+Learn more and [enroll in this course](https://learn.digitalcloud.training/course/python-programming-for-aws/) now to stand out in today's competitive job market with these cutting edge development skills, and learn how to leverage the latest AI technologies to increase development efficiency and accuracy.
